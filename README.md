@@ -6,7 +6,8 @@ Plan your preparation, sync your solved PortSwigger labs automatically, log your
 
 > **🔒 Privacy first:** This tool **never asks for your PortSwigger password**. It has no server, no login, no analytics, and no tracking. Your progress is stored only in your own browser.
 
-**▶ Live demo:** https://prince-71-cloud.github.io/BCP_tracker/ *(available once GitHub Pages is enabled, see [For the maintainer](#for-the-maintainer))*
+**Live demo:** https://prince-71-cloud.github.io/BCP_tracker/ *(available once GitHub Pages is enabled, see [For the maintainer](#for-the-maintainer))*
+<img width="867" height="945" alt="Demo_01" src="https://github.com/user-attachments/assets/ab952420-1db8-4430-9dd1-7f65b570d406" />
 
 ---
 
@@ -41,6 +42,7 @@ Plan your preparation, sync your solved PortSwigger labs automatically, log your
 - **Export and import** your progress as files, to back it up, move between computers, or save your payloads as a Markdown cheat sheet.
 - **Dark and light mode**, following your system setting.
 - **Works offline** as a single HTML file, with nothing to install.
+<img width="888" height="969" alt="Demo_02" src="https://github.com/user-attachments/assets/87e50c47-c7a9-416c-ac91-fe1b5388506a" />
 
 ---
 
@@ -188,7 +190,8 @@ Because storage is per-browser, use the buttons at the bottom of the page to kee
 To start over deliberately, click **Reset all progress** at the bottom of the page.
 
 > 💡 Export a backup before clearing your browser, switching computers, or updating to a new version of the tracker.
-
+<img width="888" height="971" alt="Demo_03" src="https://github.com/user-attachments/assets/1f63d01e-ea4e-4790-a494-606d103b5199" />
+<img width="881" height="993" alt="Demo_04" src="https://github.com/user-attachments/assets/210bb687-c499-4bd8-b905-20eb2cc76d7f" />
 ---
 
 ## Troubleshooting
