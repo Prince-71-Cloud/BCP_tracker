@@ -6,7 +6,7 @@ Plan your preparation, sync your solved PortSwigger labs automatically, log your
 
 > **🔒 Privacy first:** This tool **never asks for your PortSwigger password**. It has no server, no login, no analytics, and no tracking. Your progress is stored only in your own browser.
 
-**Live demo:** https://prince-71-cloud.github.io/BCP_tracker/ *(available once GitHub Pages is enabled, see [For the maintainer](#for-the-maintainer))*
+**Live demo:** https://prince-71-cloud.github.io/BCP_tracker/ 
 <img width="867" height="945" alt="Demo_01" src="https://github.com/user-attachments/assets/ab952420-1db8-4430-9dd1-7f65b570d406" />
 
 ---
@@ -256,15 +256,7 @@ Contributions are welcome, especially:
 
 Please keep the project dependency-free, credential-free, and runnable as a single HTML file.
 
----
 
-## For the maintainer
-
-To publish the live version with **GitHub Pages**:
-1. Go to the repository's **Settings → Pages**.
-2. Under **Build and deployment**, set **Source** to *Deploy from a branch*.
-3. Choose the `main` branch and the `/ (root)` folder, then click **Save**.
-4. After a minute or two, the tracker will be live at https://prince-71-cloud.github.io/BCP_tracker/
 
 ---
 
@@ -285,3 +277,5 @@ Released under the [MIT License](LICENSE).
 ---
 
 Made with ☕ for the security community by [Md Aman Bhuiyan](https://github.com/Prince-71-Cloud). If this helped you pass, give the repo a ⭐ and share it with others preparing for the BSCP.
+###
+***HappyHacking*** 👨🏻‍💻
